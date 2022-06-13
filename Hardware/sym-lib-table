@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "BAT760")(type "Legacy")(uri "${KIPRJMOD}/kicad-libraries/BAT760/BAT760.lib")(options "")(descr ""))
+  (lib (name "Espressif")(type "KiCad")(uri "${KIPRJMOD}/kicad-libraries/espressif/libraries/Espressif.kicad_sym")(options "")(descr ""))
+  (lib (name "LESD5D5.0CT1G")(type "Legacy")(uri "${KIPRJMOD}/kicad-libraries/LESD5D5.0CT1G/LESD5D5.0CT1G.lib")(options "")(descr ""))
+)
