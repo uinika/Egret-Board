@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name "BAT760")(type "KiCad")(uri "${KIPRJMOD}/kicad-libraries/BAT760")(options "")(descr ""))
+  (lib (name "CP2102N-A01-GQFN28")(type "KiCad")(uri "${KIPRJMOD}/kicad-libraries/CP2102N-A01-GQFN28")(options "")(descr ""))
+  (lib (name "ESP32-PICO-D4")(type "KiCad")(uri "${KIPRJMOD}/kicad-libraries/ESP32-PICO-D4")(options "")(descr ""))
+  (lib (name "LESD5D5")(type "KiCad")(uri "${KIPRJMOD}/kicad-libraries/LESD5D5.0CT1G")(options "")(descr ""))
+  (lib (name "PRO-OB-440")(type "KiCad")(uri "${KIPRJMOD}/kicad-libraries/PRO-OB-440")(options "")(descr ""))
+)
