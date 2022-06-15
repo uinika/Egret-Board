@@ -1,0 +1,1 @@
+[('SW2', 'C:\\Software\\Tech\\KiCad\\share\\kicad\\3dmodels\\Button_Switch_SMD.3dshapes\\SW_Push_SPST_NO_Alps_SKRK.wrl'), ('SW1', 'C:\\Software\\Tech\\KiCad\\share\\kicad\\3dmodels\\Button_Switch_SMD.3dshapes\\SW_Push_SPST_NO_Alps_SKRK.wrl'), ('J3', 'C:\\Software\\Tech\\KiCad\\share\\kicad\\3dmodels\\Connector_USB.3dshapes\\USB_Micro-B_Molex-105017-0001.wrl')]
