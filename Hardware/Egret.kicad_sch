@@ -3165,7 +3165,7 @@
     (property "Value" "Conn_01x20_Male" (id 1) (at 212.852 80.264 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Connector_PinHeader_1.00mm:PinHeader_1x20_P1.00mm_Vertical" (id 2) (at 223.52 50.8 0)
+    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x20_P2.54mm_Vertical" (id 2) (at 223.52 50.8 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 223.52 50.8 0)
@@ -3387,7 +3387,7 @@
     (uuid 9832501f-af9f-4986-a2cc-35159569a913)
     (property "Reference" "J1" (id 0) (at 180.594 23.876 0))
     (property "Value" "Conn_01x20_Male" (id 1) (at 179.832 80.264 0))
-    (property "Footprint" "Connector_PinHeader_1.00mm:PinHeader_1x20_P1.00mm_Vertical" (id 2) (at 177.8 50.8 0)
+    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x20_P2.54mm_Vertical" (id 2) (at 177.8 50.8 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 177.8 50.8 0)
@@ -4271,10 +4271,10 @@
       (reference "E1") (unit 1) (value "PRO-OB-440") (footprint "PRO-OB-440:ANT_PRO-OB-440")
     )
     (path "/9832501f-af9f-4986-a2cc-35159569a913"
-      (reference "J1") (unit 1) (value "Conn_01x20_Male") (footprint "Connector_PinHeader_1.00mm:PinHeader_1x20_P1.00mm_Vertical")
+      (reference "J1") (unit 1) (value "Conn_01x20_Male") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x20_P2.54mm_Vertical")
     )
     (path "/5fac6571-5859-4377-9596-fb4b76d22263"
-      (reference "J2") (unit 1) (value "Conn_01x20_Male") (footprint "Connector_PinHeader_1.00mm:PinHeader_1x20_P1.00mm_Vertical")
+      (reference "J2") (unit 1) (value "Conn_01x20_Male") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x20_P2.54mm_Vertical")
     )
     (path "/b9ddff79-f037-427e-acab-acd7cbf8fd2e"
       (reference "J3") (unit 1) (value "USB_B_Micro") (footprint "Connector_USB:USB_Micro-B_Molex-105017-0001")
