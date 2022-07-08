@@ -654,6 +654,11 @@
       (net 32 "unconnected-(U3-Pad3)") (pinfunction "VSS") (pintype "power_in") (tstamp 1dfa4ded-d86e-47cb-8ab5-aed03098c880))
     (pad "4" smd rect locked (at 2.45 -1.65 180) (size 1.5 0.9) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 33 "unconnected-(U3-Pad4)") (pinfunction "DIN") (pintype "input") (tstamp b7f6692c-9a1c-4193-bc70-169467635889))
+    (model "${KIPRJMOD}/Libraries/WS2812B-B/WS2812B-B.step"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz -90 0 0))
+    )
   )
 
 )
