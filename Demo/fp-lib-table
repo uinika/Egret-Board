@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name "CP2102N-A01-GQFN28")(type "KiCad")(uri "${KIPRJMOD}/Libraries/CP2102N-A01-GQFN28")(options "")(descr ""))
+  (lib (name "ESP32-PICO-D4")(type "KiCad")(uri "${KIPRJMOD}/Libraries/ESP32-PICO-D4")(options "")(descr ""))
+  (lib (name "LP2992IM5-3")(type "KiCad")(uri "${KIPRJMOD}/Libraries/LP2992IM5-3.3")(options "")(descr ""))
+  (lib (name "MPU6050")(type "KiCad")(uri "${KIPRJMOD}/Libraries/MPU6050")(options "")(descr ""))
+  (lib (name "WS2812B-B")(type "KiCad")(uri "${KIPRJMOD}/Libraries/WS2812B-B")(options "")(descr ""))
+)

@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name "LP2992IM5-3.3")(type "Legacy")(uri "${KIPRJMOD}/Libraries/LP2992IM5-3.3/LP2992IM5-3.3.lib")(options "")(descr ""))
+  (lib (name "CP2102N-A01-GQFN28")(type "Legacy")(uri "${KIPRJMOD}/Libraries/CP2102N-A01-GQFN28/CP2102N-A01-GQFN28.lib")(options "")(descr ""))
+  (lib (name "ESP32-PICO-D4")(type "Legacy")(uri "${KIPRJMOD}/Libraries/ESP32-PICO-D4/ESP32-PICO-D4.lib")(options "")(descr ""))
+  (lib (name "WS2812B-B")(type "Legacy")(uri "${KIPRJMOD}/Libraries/WS2812B-B/WS2812B-B.lib")(options "")(descr ""))
+  (lib (name "MPU6050")(type "Legacy")(uri "${KIPRJMOD}/Libraries/MPU6050/MPU6050.lib")(options "")(descr ""))
+)
