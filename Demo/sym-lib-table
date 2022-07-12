@@ -4,4 +4,6 @@
   (lib (name "ESP32-PICO-D4")(type "Legacy")(uri "${KIPRJMOD}/Libraries/ESP32-PICO-D4/ESP32-PICO-D4.lib")(options "")(descr ""))
   (lib (name "WS2812B-B")(type "Legacy")(uri "${KIPRJMOD}/Libraries/WS2812B-B/WS2812B-B.lib")(options "")(descr ""))
   (lib (name "MPU6050")(type "Legacy")(uri "${KIPRJMOD}/Libraries/MPU6050/MPU6050.lib")(options "")(descr ""))
+  (lib (name "2388749-1")(type "Legacy")(uri "${KIPRJMOD}/Libraries/2388749-1/2388749-1.lib")(options "")(descr ""))
+  (lib (name "AN2051")(type "Legacy")(uri "${KIPRJMOD}/Libraries/AN2051/AN2051.lib")(options "")(descr ""))
 )
