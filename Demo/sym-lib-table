@@ -7,4 +7,5 @@
   (lib (name "2388749-1")(type "Legacy")(uri "${KIPRJMOD}/Libraries/2388749-1/2388749-1.lib")(options "")(descr ""))
   (lib (name "AN2051")(type "Legacy")(uri "${KIPRJMOD}/Libraries/AN2051/AN2051.lib")(options "")(descr ""))
   (lib (name "BH1750FVI-TR")(type "Legacy")(uri "${KIPRJMOD}/Libraries/BH1750FVI-TR/BH1750FVI-TR.lib")(options "")(descr ""))
+  (lib (name "kicad_lceda")(type "Legacy")(uri "${KIPRJMOD}/Libraries/LCEDA/kicad_lceda.lib")(options "")(descr ""))
 )

@@ -7,4 +7,6 @@
   (lib (name "AN2051")(type "KiCad")(uri "${KIPRJMOD}/Libraries/AN2051")(options "")(descr ""))
   (lib (name "2388749-1")(type "KiCad")(uri "${KIPRJMOD}/Libraries/2388749-1")(options "")(descr ""))
   (lib (name "BH1750FVI-TR")(type "KiCad")(uri "${KIPRJMOD}/Libraries/BH1750FVI-TR")(options "")(descr ""))
+  (lib (name "kicad_lceda")(type "KiCad")(uri "${KIPRJMOD}/Libraries/LCEDA/kicad_lceda.pretty")(options "")(descr ""))
+  (lib (name "G+D")(type "KiCad")(uri "${KIPRJMOD}/Libraries/G+D")(options "")(descr ""))
 )
