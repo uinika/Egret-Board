@@ -8,4 +8,5 @@
   (lib (name "AN2051")(type "Legacy")(uri "${KIPRJMOD}/Libraries/AN2051/AN2051.lib")(options "")(descr ""))
   (lib (name "BH1750FVI-TR")(type "Legacy")(uri "${KIPRJMOD}/Libraries/BH1750FVI-TR/BH1750FVI-TR.lib")(options "")(descr ""))
   (lib (name "kicad_lceda")(type "Legacy")(uri "${KIPRJMOD}/Libraries/LCEDA/kicad_lceda.lib")(options "")(descr ""))
+  (lib (name "TF-SMD_TF-02")(type "Legacy")(uri "${KIPRJMOD}/Libraries/TF-SMD_TF-02/TF-SMD_TF-02.lib")(options "")(descr ""))
 )

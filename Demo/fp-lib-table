@@ -9,4 +9,5 @@
   (lib (name "BH1750FVI-TR")(type "KiCad")(uri "${KIPRJMOD}/Libraries/BH1750FVI-TR")(options "")(descr ""))
   (lib (name "kicad_lceda")(type "KiCad")(uri "${KIPRJMOD}/Libraries/LCEDA/kicad_lceda.pretty")(options "")(descr ""))
   (lib (name "G+D")(type "KiCad")(uri "${KIPRJMOD}/Libraries/G+D")(options "")(descr ""))
+  (lib (name "TF-SMD_TF-02")(type "KiCad")(uri "${KIPRJMOD}/Libraries/TF-SMD_TF-02")(options "")(descr ""))
 )
