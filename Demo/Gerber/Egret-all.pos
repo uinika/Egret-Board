@@ -1,0 +1,42 @@
+### Module positions - created on Tue Jul 19 19:24:25 2022 ###
+### Printed by Pcbnew version (6.0.6)
+## Unit = mm, Angle = deg.
+## Side : All
+# Ref     Val                  Package                                 PosX       PosY       Rot  Side
+C1        10nF                 C_0603_1608Metric                     3.5850    19.5025  -90.0000  top
+C2        0.1uF                C_0603_1608Metric                     5.5850    19.4800   90.0000  top
+C3        0.1uF                C_0603_1608Metric                     4.0800    44.3900  180.0000  top
+C4        0.1uF                C_0603_1608Metric                     4.0800    41.8300  180.0000  top
+C5        2.2nF                C_0603_1608Metric                     9.5750    47.1400  180.0000  top
+C6        10uF                 C_0603_1608Metric                     7.4750    19.4800   90.0000  top
+C7        10nF                 C_0603_1608Metric                     4.1400    47.1400  180.0000  top
+C8        0.1uF                C_0603_1608Metric                    16.8800    19.5100  -90.0000  top
+C9        0.1uF                C_0603_1608Metric                    24.8650    23.4600    0.0000  top
+C10       0.1uF                C_0603_1608Metric                    17.9620    32.7200   90.0000  top
+C11       10uF                 C_0603_1608Metric                    15.7300    32.7500   90.0000  top
+Card1     TF-02A_C2889261      TF-SMD_TF-02                         12.6800     8.7500  -90.0000  top
+FPC1      FPC-05F-12PH20       FPC-SMD_12P-P0.50_FPC-05F-12PH20     33.3555    33.2100  -90.0000  top
+Q1        S8050                SOT-23                               23.2800    43.7100  -90.0000  top
+Q2        S8050                SOT-23                               28.1800    43.7100  -90.0000  top
+Q3        AO3415AL             SOT-23-3_L2.9-W1.6-P1.90-LS2.9-BL    24.1300    36.4100    0.0000  top
+R1        10k                  R_0603_1608Metric                    24.8900    28.4600  180.0000  top
+R2        10k                  R_0603_1608Metric                    13.0020    19.5100   90.0000  top
+R3        12k                  R_0603_1608Metric                    23.1800    47.1100    0.0000  top
+R4        12k                  R_0603_1608Metric                    28.1800    47.1100    0.0000  top
+R5        1k                   R_0603_1608Metric                    24.1612    32.5730  180.0000  top
+R6        200R                 R_0603_1608Metric                    17.1800    47.1600  180.0000  top
+R7        10k                  R_0603_1608Metric                    16.8675    38.7100    0.0000  top
+R8        0                    R_0603_1608Metric                    12.3740    32.7200   90.0000  top
+R9        10k                  R_0603_1608Metric                    21.3700    14.9000    0.0000  top
+R10       10k                  R_0603_1608Metric                    21.3900     9.1300    0.0000  top
+R11       10k                  R_0603_1608Metric                    21.3900    12.1200    0.0000  top
+R12       10k                  R_0603_1608Metric                    21.3900     6.2100    0.0000  top
+U1        WS2812B-B            LED_WS2812B-B                        40.0800    33.3100   90.0000  top
+U2        MPU6050              IC_MPU6050                            9.5800    43.7600  -90.0000  top
+U3        LP2992IM5-3.3        SOT95P280X145-5N                      5.6000    25.2100  -90.0000  top
+U4        BH1750FVI-TR         XDCR_BH1750FVI-TR                    24.9087    25.9210    0.0000  top
+U5        ESP32-PICO-D4        PQFN50P700X700X104-49N               15.9700    25.9250  180.0000  top
+U6        AN2051-245_2.4G全向天线  ANT-SMD_L5.0-W2.0                    40.2800    13.2600    0.0000  top
+U7        CP2102N-A01-GQFN28   QFN50P500X500X80-29N                 16.8675    43.0100    0.0000  top
+USB1      TYPEC-304J-BCP16     USB-C-SMD_TYPEC-304J-BCP16            4.8200    33.0600  -90.0000  top
+## End
