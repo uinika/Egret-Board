@@ -1,7 +1,3 @@
 (sym_lib_table
-  (lib (name "BAT760")(type "Legacy")(uri "${KIPRJMOD}/kicad-libraries/BAT760/BAT760.lib")(options "")(descr ""))
-  (lib (name "LESD5D5.0CT1G")(type "Legacy")(uri "${KIPRJMOD}/kicad-libraries/LESD5D5.0CT1G/LESD5D5.0CT1G.lib")(options "")(descr ""))
-  (lib (name "ESP32-PICO-D4")(type "Legacy")(uri "${KIPRJMOD}/kicad-libraries/ESP32-PICO-D4/ESP32-PICO-D4.lib")(options "")(descr ""))
-  (lib (name "CP2102N-A01-GQFN28")(type "Legacy")(uri "${KIPRJMOD}/kicad-libraries/CP2102N-A01-GQFN28/CP2102N-A01-GQFN28.lib")(options "")(descr ""))
-  (lib (name "PRO-OB-440")(type "Legacy")(uri "${KIPRJMOD}/kicad-libraries/PRO-OB-440/PRO-OB-440.lib")(options "")(descr ""))
+  (lib (name "Uinika")(type "KiCad")(uri "${KIPRJMOD}/Libraries/Uinika.kicad_sym")(options "")(descr ""))
 )
