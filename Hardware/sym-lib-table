@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name "Uinika")(type "KiCad")(uri "${KIPRJMOD}/Libraries/Uinika.kicad_sym")(options "")(descr ""))
+  (lib (name "kicad_lceda")(type "Legacy")(uri "C:/Users/zhenghang/Desktop/kicad_lceda (1)/kicad_lceda.lib")(options "")(descr ""))
 )
